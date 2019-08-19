@@ -1,11 +1,11 @@
 {
     "name": "DejaVu",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "title": "Deja Vu Song",
     "author": "pawndev",
     "contact": "coquelet.c@gmail.com",
     "homepage": "github.com/pawndev",
     "factorio_version": "0.17",
     "dependencies": ["base >= 0.17"],
-    "description": "Add the music 'Deja Vu' from initial-D when you drive a car"
+    "description": "Adds the music 'Deja Vu' from initial-D when you drive a car, Compatible with other car mods. Credit to JoCKeR-il for the code re-write"
 }
